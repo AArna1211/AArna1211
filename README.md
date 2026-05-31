@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ankita Bandyopadhyay
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmN3V4ODFndTR0Mm9hM2hyYWQ5N2t4NGM0aWwzZWQxOGV3aGkzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="350" style="padding-left: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmN3V4ODFndTR0Mm9hM2hyYWQ5N2t4NGM0aWwzZWQxOGV3aGkzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 ### AI Engineer • Data Engineer • Game AI Developer
 
