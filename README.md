@@ -193,11 +193,11 @@ Built Retrieval-Augmented Generation pipelines using:
 </p>
 
 ---
-
+<!---
 ## 💡 Philosophy
 
 > Building intelligent systems that learn, adapt, and create impact — from scalable AI products to immersive game experiences.
 
----
+--->
 
 ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
