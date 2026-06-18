@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ankita Bandyopadhyay
-
+<!---
 <img align="right" alt="Coding" width="350" style="padding-left: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmN3V4ODFndTR0Mm9hM2hyYWQ5N2t4NGM0aWwzZWQxOGV3aGkzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-
+--->
 ### AI Engineer • Data Engineer • Game AI Developer
 
 I’m a Computer Science graduate passionate about building intelligent systems that solve real-world problems.
@@ -107,7 +107,7 @@ My experience spans across **Machine Learning**, **LLMs**, **RAG Systems**, **Da
 ---
 
 ## 🔥 Featured Projects
-
+<!---
 ### 🩺 Skin Cancer Detection
 
 Deep learning-based image classification system trained on 10,000+ dermoscopy images.
@@ -115,7 +115,7 @@ Deep learning-based image classification system trained on 10,000+ dermoscopy im
 **Tech Stack:** TensorFlow, CNNs, Python
 
 ---
-
+--->
 ### 🚦 Long-Term Traffic Forecasting
 
 Research-driven forecasting solution exploring optimization techniques for traffic prediction.
@@ -156,7 +156,7 @@ Built Retrieval-Augmented Generation pipelines using:
 
 ---
 
-## 📊 GitHub Stats
+<!---## 📊 GitHub Stats
 
 
 
@@ -165,7 +165,7 @@ Built Retrieval-Augmented Generation pipelines using:
 </p>
 
 ---
-
+-->
 ## 🌱 Currently Exploring
 
 - Agentic AI Systems
