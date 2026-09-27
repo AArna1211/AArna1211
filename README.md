@@ -12,8 +12,8 @@ My experience spans across **Machine Learning**, **LLMs**, **RAG Systems**, **Da
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **Junior Game Developer (L1)**
-- 🤖 Previously worked as **Assistant Machine Learning Engineer**
+- 🔭 Currently working as **Game Developer (L2)**
+- 🤖 Previously worked as **Junior Game Developer (L1)** & **Assistant Machine Learning Engineer**
 - 📊 Experience building ETL pipelines using Azure Data Factory & PySpark
 - 🧠 Built RAG systems using Qdrant, Embeddings, and LangChain
 - 🎮 Developed Game AI systems using FSM, GOAP, and A* Pathfinding
